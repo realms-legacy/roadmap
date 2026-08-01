@@ -2,6 +2,8 @@
 On this site, you will find the most up to date infos about the game's progress.
 If you're wondering how the game is evolving, make sure to check this website regularly.
 
+If you wish to see features to be added to this list, you can suggest them on our [Discord server](https://discord.gg/tK7KE5rBSS).
+
 ### Legend
 - ✅ Ready and tested
 - 🟢 Ready but not yet tested
@@ -36,10 +38,10 @@ If you're wondering how the game is evolving, make sure to check this website re
 - 🟡 Monetization
 - 🟡 Block variants
 - 🟡 Polishing
-    - 🟠 Mobile + console support
     - 🟡 SFX
     - 🟡 Animations
     - 🟡 3D optimizations
+- 🟡 Mobile + console support
 
 ## Planned features (non exhaustive list)
 - Skills
@@ -61,3 +63,9 @@ If you're wondering how the game is evolving, make sure to check this website re
 - Bosses & mini bosses
 - NPC revamp (models + voicelines)
 - Spells?
+
+### Links
+- [YouTube](https://www.youtube.com/@iamsylr)
+- [Discord](https://discord.gg/tK7KE5rBSS)
+- [Twitter/X](https://x.com/CaelumGames)
+- [Roblox Group](https://www.roblox.com/communities/32808823/The-Realmians#!/about)
