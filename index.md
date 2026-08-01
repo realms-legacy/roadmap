@@ -1,7 +1,7 @@
 On this site, you will find the most up to date infos about the game's progress.
 If you're wondering how the game is evolving, make sure to check this website regularly.
 
-If you wish to see features to be added to this list, you can suggest them on our [Discord server](https://discord.gg/tK7KE5rBSS).
+*If you wish to see features to be added to this list, you can suggest them on our [Discord server](https://discord.gg/tK7KE5rBSS).*
 
 ### Legend
 - ✅ Ready and tested
@@ -23,7 +23,7 @@ If you wish to see features to be added to this list, you can suggest them on ou
     - 🔴 Backend rewrite with ECS
     - 🟠 Visiting + persistent permissions
 - 🟢 Crafting
-- NPCS
+- 🟡 NPCS
     - 🟢 Shops
     - 🔴 Dialogs
 - Portals
@@ -61,7 +61,8 @@ If you wish to see features to be added to this list, you can suggest them on ou
 - Guilds + Guild islands
 - Bosses & mini bosses
 - NPC revamp (models + voicelines)
-- Spells?
+- Spells
+- ...
 
 ### Links
 - [YouTube](https://www.youtube.com/@iamsylr)
