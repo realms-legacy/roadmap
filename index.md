@@ -3,6 +3,8 @@ If you're wondering how the game is evolving, make sure to check this website re
 
 *If you wish to see features to be added to this list, you can suggest them on our [Discord server](https://discord.gg/tK7KE5rBSS).*
 
+**Last updated on: 08/01/2026**
+
 ### Legend
 - ✅ Ready and tested
 - 🟢 Ready but not yet tested
