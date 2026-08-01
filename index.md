@@ -10,35 +10,36 @@ If you're wondering how the game is evolving, make sure to check this website re
 - 🔴 Not started
 
 ## Public release features
-- Maps
-    - Main menu
-    - Private island
-    - Celestia
-- Save files
-- Private island system
-    - Building
-    - Saving & loading
-    - Data compression
-    - Backend rewrite with ECS
-    - Visiting + persistent permissions
-- Crafting
+- ✅ Maps
+    - ✅ Main menu
+    - ✅ Private island
+    - ✅ Celestia
+- 🟢 Save files
+- 🟡 Private island system
+    - 🟢 Building
+    - 🟢 Saving & loading
+    - 🟠 Data compression
+    - 🔴 Backend rewrite with ECS
+    - 🟠 Visiting + persistent permissions
+- 🟢 Crafting
 - NPCS
-    - Shops
-    - Dialogs
+    - 🟢 Shops
+    - 🔴 Dialogs
 - Portals
-    - Teleportation
-    - Skins
-- Skills
-    - Prestige
-    - Mining
-    - Foraging
-    - Farming
-- Monetization
-- Block variants
-- Polishing
-    - SFX
-    - Animations
-    - 3D optimizations
+    - 🟢 Teleportation
+    - 🟠 Skins
+- 🟢 Skills
+    - 🟢 Prestige
+    - 🟢 Mining
+    - 🟢 Foraging
+    - 🟢 Farming
+- 🟡 Monetization
+- 🟡 Block variants
+- 🟡 Polishing
+    - 🟠 Mobile + console support
+    - 🟡 SFX
+    - 🟡 Animations
+    - 🟡 3D optimizations
 
 ## Planned features (non exhaustive list)
 - Skills
